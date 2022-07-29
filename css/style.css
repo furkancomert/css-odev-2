@@ -1,0 +1,72 @@
+body{
+    margin: 40px;
+}
+
+a{
+    margin: 0%;
+}
+
+p{
+    margin: 0%;
+}
+
+.first-mid{
+    background-color: #eeeeee;
+    margin: 1px;
+    text-align: center;
+}
+
+.second-mid{
+    display: flex;
+    text-align: center;
+}
+
+.Searches{
+    background-color: #7ee5da;
+    width: 490px;
+    max-height: 73px;
+    margin: 1px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.info{
+    background-color: #70ccc2;
+    width: 250px;
+    max-height: 80px;
+    margin: 1px;
+    padding-top:5px;
+}
+
+.subscribe{
+    background-color: #62b3aa;
+    width: 580px;
+    max-height: 83px;
+    margin: 1px;
+    padding-top:2px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 24px;
+}
+
+header{
+    text-align: center;
+}
+
+.fs5{
+    font-size:5mm;
+}
+
+.fs4{
+    font-size:4mm;
+}
+
+.fs3{
+    font-size:3mm;
+}
+
+::placeholder{
+    color: black;
+}
